@@ -18,3 +18,4 @@
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minami0717&layout=compact)](https://github.com/Minami0717/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Minami0717&show_icons=true">
