@@ -2,11 +2,6 @@
 #### 
 #### 
 
-
-📱SNS📱
-
- <img src="https://img.shields.io/badge/marushe-5865F2?style=flat-square&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/wash98@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white\"/> <img src="https://img.shields.io/badge/j_wooojin-E4405F?style=flat-square&logo=instagram&logoColor=white\"/>
-
 :books:Stack:books:
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> 
